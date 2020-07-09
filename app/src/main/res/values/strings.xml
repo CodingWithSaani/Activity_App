@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity App</string>
+    <string name="enter_the_number_here">Enter the number here</string>
+    <string name="check_number">Check Number</string>
+</resources>
